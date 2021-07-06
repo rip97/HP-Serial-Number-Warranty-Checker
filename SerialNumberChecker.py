@@ -1,5 +1,4 @@
-# Programmer: Justyn Rippie
-# Company: Albuquerque Bernalillo County Water Utility Authority
+# Programmer: rip97
 # File: SerialNumberChecker.py
 # Date: 9/23/19
 # Description: Program takes use of Selenium API and Beautiful Soup Library to automate process
